@@ -1,0 +1,21 @@
+Basic_theory - What is testing, bug reports, documentation, types, methods, testing directions, SDLC, STLC
+Client-server architecture - Theory of client-server architecture
+HTTP - HTTP methods, HTTP server response codes, structures of HTTP inputs and responses
+JSON, XML - JSON, XML structure
+Postman - API testing via Postman, JS, API autotests
+Logs - Removing and reading logs from an external server
+Charles,Fiddler - Sniffing http web traffic and interception of traffic on iOS, Android
+DevTools - Web Dev Tools of Google Chrome, FireFox
+VPN - How it works, why you need it, how to use it, tool options
+Mobile testing - Features of mobile testing, special cases
+iOS,Android - Feature, guidelines
+XCode - Building iOS applications
+Android Studio - Building Android applications
+ADB - Android device management
+Proxy vpn - Setting up on iOS and Android
+Terminal Linux - copy, create, view, move files on servers without a graphical interface
+Basics bash scripting - Automation of routine tasks on the server
+SQL - basic operators: create, delete, drop, insert, select from, where, join
+Postgres - database installation, configuration and use
+Redis - Non-relational database installation, configuration and use
+Scrum - Theory of Development Methodology
