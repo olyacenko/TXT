@@ -1,0 +1,5 @@
+name - Olya
+surname - Yatsenko
+age - 29 
+pets - i don't have any pets
+future_salary - 500$
